@@ -1,6 +1,7 @@
 # DiMEXP
 
-**Diffusion-Based Markov Modeling of Local-to-Global Gene Expression Dynamics for the Identification of Non-Driver Gene Modulators**
+**Diffusion-Based Markov Modeling of Gene Expression Dynamics Identifies Non-Driver Modulators of Cancer Drivers**
+
 
 ![R](https://img.shields.io/badge/R-%E2%89%A5%204.0-276DC3?logo=r&logoColor=white)
 ![Status](https://img.shields.io/badge/status-research%20code-orange)
@@ -266,8 +267,7 @@ If you use DiMEXP, please cite:
 ```bibtex
 @article{atitey_dimexp,
   author  = {Atitey, Komlan},
-  title   = {{DiMEXP}: Diffusion-Based Markov Modeling of Local-to-Global Gene
-             Expression Dynamics for the Identification of Non-Driver Gene Modulators},
+  title   = {{DiMEXP}: DiMEXP: Diffusion-Based Markov Modeling of Gene Expression Dynamics Identifies Non-Driver Modulators of Cancer Drivers},
   journal = {IEEE/ACM Transactions on Computational Biology and Bioinformatics},
   year    = {2026},
   note    = {Under review}
@@ -276,10 +276,8 @@ If you use DiMEXP, please cite:
 
 Please also cite the original studies for any dataset you use (accessions listed under [Data](#data)).
 
-## License and contact
+## Contact
 
-License: to be specified (add a `LICENSE` file to the repository).
-
-For questions, bug reports, or feature requests, please open an [issue](https://github.com/komlanAtitey/DiMEXP/issues) or contact Komlan Atitey (National Institute of Environmental Health Sciences).
+For questions, bug reports, or feature requests, please open an [issue](https://github.com/komlanAtitey/DiMEXP/issues) or contact Komlan Atitey (Case Western Reserve University School of Medicine: atiteykomlan@gmail.com).
 
 
