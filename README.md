@@ -266,9 +266,9 @@ If you use DiMEXP, please cite:
 
 ```bibtex
 @article{atitey_dimexp,
-  author  = {Atitey, Komlan},
+  author  = {Atitey, Komlan, and John Macaulay},
   title   = {{DiMEXP}: DiMEXP: Diffusion-Based Markov Modeling of Gene Expression Dynamics Identifies Non-Driver Modulators of Cancer Drivers},
-  journal = {IEEE/ACM Transactions on Computational Biology and Bioinformatics},
+  journal = {PLOS Computational Biology},
   year    = {2026},
   note    = {Under review}
 }
